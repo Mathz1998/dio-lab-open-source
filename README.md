@@ -87,7 +87,7 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/seunomedeusuario`; 
 10. Crie um **Pull Request**.
 
-### Instructions (EN/US)
+### Instructions (EN/US) 
 1. **Fork** the repository;
 2. Clone locally: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`;
 3. Add upstream remote to keep your local repository up to date: `git remote add upstream https://github.com/elidianaandrade/dio-lab-open-source.git`;
